@@ -1,0 +1,40 @@
+fix abilities that only affect self
+creation of buildings visible
+unit garrisoning
+unit lines
+animations & sounds
+
+make spiders create buildings with silk
+passive skills tree?
+make fleeing movement
+show info of all selected units (HP, icons)
+
+networking, chat
+
+names: Wh, Nakk's tent, mire, dredger, pulverize, grinder, treefeller,  xylid, ectopic, appendage, outgrowth, 
+sessility, nascency, incipiency, aggrandize,  
+
+left click on bottom menu and units states:
+if passive/notarget ability/command is pressed, state doesn't change
+else the state changes depending on the clicked command/ability.
+
+the state will then tell the main class which targets are valid for the current action (friend, enemy, structure, ground, etc)
+so only the valid targets are targetable via left click and highlighted if mouse hovered 
+
+next time left click is issued on the valid target, the coordinates  (or target unit) are sent to the unit
+(state in the menu will change only if LMB is clicked on a valid target)
+since unit knows which ability was being used, it will do that on the target location / target unit.
+
+builder types:
+free builder (protoss), normal builder (human), consumed builder (zerg), busy builder (terran)
+
+abilities:
+
+sunstrike:
+cmds: hp -= damage
+lste: burning ground aura to all units in radius
+
+deliver:
+cmds: destination += resources, source -= resources
+
+

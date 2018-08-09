@@ -1,0 +1,72 @@
+Lore:
+Crawler 
+    An animal based race that relies on toxins to debilitate enemies.
+    Individual Crawler' units aren't very strong, but when they are in large numbers, they can
+    incapacitate even the largest enemy. Many of their units' attacks are poisonous which causes
+    enemies to take damage over time or reduces they speed. Some poisons can even cause paralysis, 
+    rendering the affected unit useless. Crawler are best suited for fights in well lit areas
+    as the sunlight enhances their units' hit point regeneration and grants some units special abilities.
+
+
+Warlock
+    Demon based race that relies on inflicting curses to enemies and creating armies using black magic.
+    Most of their power comes from collective rituals used for summoning powerful demons 
+    from the underworld that fight for them. These demons are very hard to defeat, but last only 
+    a limited amount of time. The worst time of day to pick a fight against the Warlock is night as
+    it gives them increased hit points as well as mana regeneration, and some units acquire additional 
+    abilities only usable during night time.
+
+
+Guardian
+    The second oldest race in the world, and the third oldest race still alive today.
+    They are peaceful in nature, but can be very dangerous if it is necessary.
+    Their connection to nature allows their units to become invisible in virtually any environment, 
+    allowing them to sneak up on their enemies before initiating a devastating attack. Founding an Guardian 
+    civilization surrounded by trees can be very wise, as trees give them additional level of protection 
+    from enemy forces.
+    
+Guardian
+    Some buildings have an aura that roots nearby buildings and provides them with extra armor and hp regen.
+    Whilst rooting is active the source building has lower armor.
+    
+
+Igarwoid?
+
+Advantages/disadvantages:
+Crawler
+    Advantages:
+        Low unit cost
+        Fast unit production
+        Durable structures
+        Passive regeneration
+        High population cap
+        High unit movement speed
+
+    Disadvantages:
+        Low unit durability
+        Low burst damage potential
+        Vulnerability to magic
+
+Warlock
+    Advantages:
+        High magical damage
+        High resistance to magic
+        High unit hit points
+    
+    Disadvantages:
+        Weak structures
+        Slow unit production
+        Many units are time limited
+        Low physical damage
+
+Guardian
+    Advantages:
+        High magical damage
+        High resistance to physical damage 
+        High defense potential
+        Plenty of unit upgrades
+
+    Disadvantages:
+        Low unit mobility
+        Vulnerability to magical damage
+        High unit cost
